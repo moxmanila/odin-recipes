@@ -10,3 +10,7 @@ body {
     max-width: 700px;
 
 }
+
+.picturebox img {
+width: 450px;
+}
